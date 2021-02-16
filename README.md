@@ -10,17 +10,14 @@
    to manage data and i used material design to make the UI.
 ## Application UI
    ## Login / Register Screen
-<img src="/Screenshots/Screenshot_20201231_113202_com.example.cookingapp.jpg" width="400" margin-right="10px"> <img src="/Screenshots/Screenshot_20201231_113214_com.example.cookingapp.jpg" width="400"><br/><br/><br/>
+<img src="/Screenshots/login.jpg" width="400" margin-right="10px"> <img src="/Screenshots/register.jpg" width="400"><br/><br/><br/>
 
    ## Main page
-<img src="/Screenshots/Screenshot_20201231_171729_com.example.cookingapp.jpg" width="400" margin-right="10px"> <img src="/Screenshots/Screenshot_20201231_171735_com.example.cookingapp.jpg" width="400" margin-right="10px"> <br/><br/><br/>
+<img src="/Screenshots/log_out.jpg" width="400" margin-right="10px"> <img src="/Screenshots/main.jpg" width="400" margin-right="10px"> <br/><br/><br/>
 
    ## Sending page
-<img src="/Screenshots/Screenshot_20201231_113300_com.example.cookingapp.jpg" width="400" margin-right="10px"> <img src="/Screenshots/Screenshot_20201231_113304_com.example.cookingapp.jpg" width="400" margin-right="10px"> <br/><br/><br/>
-
-   ## transaction details page
-<img src="/Screenshots/Screenshot_20201231_113224_com.example.cookingapp.jpg" width="400" margin-right="10px"> <br/><br/><br/> 
+<img src="/Screenshots/send.jpg" width="400" margin-right="10px"> <br/><br/><br/>
 
    ## profile page
-<img src="/Screenshots/Screenshot_20201231_113224_com.example.cookingapp.jpg" width="400" margin-right="10px"> <br/><br/><br/> 
+<img src="/Screenshots/profile.jpg" width="400" margin-right="10px"> <img src="/Screenshots/pass_reset.jpg" width="400" margin-right="10px"> <img src="/Screenshots/delete_account.jpg" width="400" margin-right="10px"> <img src="/Screenshots/add_credit.jpg" width="400" margin-right="10px"> <br/><br/><br/> 
 
