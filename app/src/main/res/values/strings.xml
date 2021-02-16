@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Banking</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="technical_problem_contact_us">Technical Problem ? Contact Us</string>
+    <string name="todo">TODO</string>
+    <string name="electronic_bank">Electronic Bank</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="balance">Balance</string>
+    <string name="operation">Operation</string>
+    <string name="send">Send</string>
+    <string name="target_name">Target Name</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="mzmosa99_gmail_com">mzmosa99@gmail.com</string>
+    <string name="moussa">Moussa</string>
+    <string name="new_password">New Password</string>
+    <string name="add_money">Add Money</string>
+    <string name="change_password">Change Password</string>
+    <string name="dollars">Dollars</string>
+    <string name="enter_the_amount">Enter the amount</string>
+</resources>
