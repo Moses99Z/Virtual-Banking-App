@@ -1,7 +1,7 @@
 # Virtual Bank
 
 # Application
-   [![Generic badge](https://img.shields.io/badge/Virtual_Bank-v1.0-red.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/Made_with-KOTLIN-<COLOR>.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/ROOM-blue.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/MVVM-red.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Material_Design-grey.svg)](https://shields.io/) </br>
+   [![Generic badge](https://img.shields.io/badge/Virtual_Bank-v1.0-red.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/Made_with-KOTLIN-<COLOR>.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/ROOM-blue.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/MVVM-orange.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Material_Design-grey.svg)](https://shields.io/) </br>
    This app is a virtual bank account app created with Kotlin where you can 
    create an account add money and also send it to other people , it also keeps 
    you in check with your transactions history with all the details and there is a profile 
